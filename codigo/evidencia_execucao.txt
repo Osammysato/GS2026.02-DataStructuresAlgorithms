@@ -1,0 +1,533 @@
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- CONSULTAR POR ID ---
+  Nenhum serviço cadastrado.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- ORDENAR (Merge Sort) ---
+  Nenhum serviço cadastrado.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- ANÁLISE ---
+  Total de serviços cadastrados: 0
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção:   ! Opção 'x' inexistente.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção:   8 serviço(s) de exemplo carregado(s).
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- CADASTRAR ---
+  ID:   ! 'abc' não é um número inteiro. Tente novamente.
+  ID:   ! O ID deve ser maior que zero.
+  ID:   ! ID 7 já cadastrado. Cadastro cancelado.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- CADASTRAR ---
+  ID:   Título:   ! Campo obrigatório. Tente novamente.
+  Título:    1 - Transferência de renda
+   2 - Segurança alimentar
+   3 - Habitação
+   4 - Atendimento socioassistencial
+   5 - Benefícios eventuais
+  Categoria (número):   ! Opção inválida. Digite de 1 a 5.
+  Categoria (número):   Público atendido:   Requisitos:   Local de atendimento:   Serviço cadastrado com sucesso.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- CONSULTAR POR ID ---
+  ID: [20] Kit natalidade
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Gestantes de baixa renda
+    Requisitos .......: Cartão da gestante e CPF
+    Local ............: Centro de atendimento - Centro
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- CONSULTAR POR ID ---
+  ID:   Nenhum serviço encontrado com o ID 404.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- PESQUISAR ---
+   1 - Por título (contém o texto)
+   2 - Por categoria
+  Opção:   Texto do título:   1 serviço(s) encontrado(s):
+[9] Auxílio-funeral
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Certidão de óbito e comprovante de residência
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- PESQUISAR ---
+   1 - Por título (contém o texto)
+   2 - Por categoria
+  Opção:   Texto do título:   Nenhum serviço encontrado.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- PESQUISAR ---
+   1 - Por título (contém o texto)
+   2 - Por categoria
+  Opção:    1 - Transferência de renda
+   2 - Segurança alimentar
+   3 - Habitação
+   4 - Atendimento socioassistencial
+   5 - Benefícios eventuais
+  Categoria (número):   2 serviço(s) encontrado(s):
+[3] Cesta básica emergencial
+    Categoria ........: Segurança alimentar
+    Público atendido .: Famílias em situação de vulnerabilidade
+    Requisitos .......: CPF do responsável e cadastro social atualizado
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[5] Restaurante comunitário
+    Categoria ........: Segurança alimentar
+    Público atendido .: Qualquer cidadão
+    Requisitos .......: Nenhum
+    Local ............: Unidade comunitária - Zona Norte
+------------------------------------------------------------
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- ATUALIZAR ---
+  ID do serviço: [20] Kit natalidade
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Gestantes de baixa renda
+    Requisitos .......: Cartão da gestante e CPF
+    Local ............: Centro de atendimento - Centro
+  (Enter mantém o valor atual)
+  Título:   Público atendido:   Requisitos:   Local de atendimento:    1 - Transferência de renda
+   2 - Segurança alimentar
+   3 - Habitação
+   4 - Atendimento socioassistencial
+   5 - Benefícios eventuais
+  Categoria (número) [Enter mantém]:   Serviço atualizado.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- EXCLUIR ---
+  ID do serviço:   Nenhum serviço encontrado com o ID 404.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- ORDENAR (Merge Sort) ---
+   1 - Por ID
+   2 - Por título
+   3 - Por categoria (e título)
+  Critério:   Lista ordenada por id:
+[1] Acompanhamento familiar
+    Categoria ........: Atendimento socioassistencial
+    Público atendido .: Famílias com vínculos fragilizados
+    Requisitos .......: Agendamento prévio
+    Local ............: Centro de atendimento - Zona Sul
+------------------------------------------------------------
+[3] Cesta básica emergencial
+    Categoria ........: Segurança alimentar
+    Público atendido .: Famílias em situação de vulnerabilidade
+    Requisitos .......: CPF do responsável e cadastro social atualizado
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[5] Restaurante comunitário
+    Categoria ........: Segurança alimentar
+    Público atendido .: Qualquer cidadão
+    Requisitos .......: Nenhum
+    Local ............: Unidade comunitária - Zona Norte
+------------------------------------------------------------
+[7] Inscrição em programa de transferência de renda
+    Categoria ........: Transferência de renda
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Documento com foto, CPF de todos da família, comprovante de residência
+    Local ............: Centro de atendimento - Zona Leste
+------------------------------------------------------------
+[8] Atualização do cadastro social
+    Categoria ........: Transferência de renda
+    Público atendido .: Famílias já cadastradas
+    Requisitos .......: Documentos de todos os moradores
+    Local ............: Centro de atendimento - Zona Oeste
+------------------------------------------------------------
+[9] Auxílio-funeral
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Certidão de óbito e comprovante de residência
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[12] Orientação sobre aluguel social
+    Categoria ........: Habitação
+    Público atendido .: Famílias desalojadas
+    Requisitos .......: Laudo de desocupação e documento com foto
+    Local ............: Secretaria de habitação (fictícia)
+------------------------------------------------------------
+[15] Abrigo temporário
+    Categoria ........: Atendimento socioassistencial
+    Público atendido .: Pessoas em situação de rua
+    Requisitos .......: Nenhum (atendimento por ordem de chegada)
+    Local ............: Unidade de acolhimento - Centro
+------------------------------------------------------------
+[20] Kit natalidade
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Gestantes de baixa renda
+    Requisitos .......: Cartão da gestante e CPF
+    Local ............: Unidade móvel
+------------------------------------------------------------
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- ORDENAR (Merge Sort) ---
+   1 - Por ID
+   2 - Por título
+   3 - Por categoria (e título)
+  Critério:   Lista ordenada por categoria:
+[15] Abrigo temporário
+    Categoria ........: Atendimento socioassistencial
+    Público atendido .: Pessoas em situação de rua
+    Requisitos .......: Nenhum (atendimento por ordem de chegada)
+    Local ............: Unidade de acolhimento - Centro
+------------------------------------------------------------
+[1] Acompanhamento familiar
+    Categoria ........: Atendimento socioassistencial
+    Público atendido .: Famílias com vínculos fragilizados
+    Requisitos .......: Agendamento prévio
+    Local ............: Centro de atendimento - Zona Sul
+------------------------------------------------------------
+[9] Auxílio-funeral
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Certidão de óbito e comprovante de residência
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[20] Kit natalidade
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Gestantes de baixa renda
+    Requisitos .......: Cartão da gestante e CPF
+    Local ............: Unidade móvel
+------------------------------------------------------------
+[12] Orientação sobre aluguel social
+    Categoria ........: Habitação
+    Público atendido .: Famílias desalojadas
+    Requisitos .......: Laudo de desocupação e documento com foto
+    Local ............: Secretaria de habitação (fictícia)
+------------------------------------------------------------
+[3] Cesta básica emergencial
+    Categoria ........: Segurança alimentar
+    Público atendido .: Famílias em situação de vulnerabilidade
+    Requisitos .......: CPF do responsável e cadastro social atualizado
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[5] Restaurante comunitário
+    Categoria ........: Segurança alimentar
+    Público atendido .: Qualquer cidadão
+    Requisitos .......: Nenhum
+    Local ............: Unidade comunitária - Zona Norte
+------------------------------------------------------------
+[8] Atualização do cadastro social
+    Categoria ........: Transferência de renda
+    Público atendido .: Famílias já cadastradas
+    Requisitos .......: Documentos de todos os moradores
+    Local ............: Centro de atendimento - Zona Oeste
+------------------------------------------------------------
+[7] Inscrição em programa de transferência de renda
+    Categoria ........: Transferência de renda
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Documento com foto, CPF de todos da família, comprovante de residência
+    Local ............: Centro de atendimento - Zona Leste
+------------------------------------------------------------
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- ANÁLISE ---
+  Total de serviços cadastrados: 9
+  Transferência de renda           2  ( 22.2%)  ##
+  Segurança alimentar              2  ( 22.2%)  ##
+  Habitação                        1  ( 11.1%)  #
+  Atendimento socioassistencial    2  ( 22.2%)  ##
+  Benefícios eventuais             2  ( 22.2%)  ##
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- EXCLUIR ---
+  ID do serviço:   Serviço 'Kit natalidade' excluído.
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: 
+--- TODOS OS SERVIÇOS ---
+[15] Abrigo temporário
+    Categoria ........: Atendimento socioassistencial
+    Público atendido .: Pessoas em situação de rua
+    Requisitos .......: Nenhum (atendimento por ordem de chegada)
+    Local ............: Unidade de acolhimento - Centro
+------------------------------------------------------------
+[1] Acompanhamento familiar
+    Categoria ........: Atendimento socioassistencial
+    Público atendido .: Famílias com vínculos fragilizados
+    Requisitos .......: Agendamento prévio
+    Local ............: Centro de atendimento - Zona Sul
+------------------------------------------------------------
+[9] Auxílio-funeral
+    Categoria ........: Benefícios eventuais
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Certidão de óbito e comprovante de residência
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[12] Orientação sobre aluguel social
+    Categoria ........: Habitação
+    Público atendido .: Famílias desalojadas
+    Requisitos .......: Laudo de desocupação e documento com foto
+    Local ............: Secretaria de habitação (fictícia)
+------------------------------------------------------------
+[3] Cesta básica emergencial
+    Categoria ........: Segurança alimentar
+    Público atendido .: Famílias em situação de vulnerabilidade
+    Requisitos .......: CPF do responsável e cadastro social atualizado
+    Local ............: Centro de atendimento - Centro
+------------------------------------------------------------
+[5] Restaurante comunitário
+    Categoria ........: Segurança alimentar
+    Público atendido .: Qualquer cidadão
+    Requisitos .......: Nenhum
+    Local ............: Unidade comunitária - Zona Norte
+------------------------------------------------------------
+[8] Atualização do cadastro social
+    Categoria ........: Transferência de renda
+    Público atendido .: Famílias já cadastradas
+    Requisitos .......: Documentos de todos os moradores
+    Local ............: Centro de atendimento - Zona Oeste
+------------------------------------------------------------
+[7] Inscrição em programa de transferência de renda
+    Categoria ........: Transferência de renda
+    Público atendido .: Famílias de baixa renda
+    Requisitos .......: Documento com foto, CPF de todos da família, comprovante de residência
+    Local ............: Centro de atendimento - Zona Leste
+------------------------------------------------------------
+
+========== CITIZEN ASSIST AI - ASSISTÊNCIA SOCIAL ==========
+ 1 - Cadastrar serviço
+ 2 - Consultar serviço por ID
+ 3 - Atualizar serviço
+ 4 - Excluir serviço
+ 5 - Pesquisar (título ou categoria)
+ 6 - Ordenar e exibir
+ 7 - Listar todos
+ 8 - Apresentar análise
+ 9 - Carregar dados de exemplo
+ 0 - Encerrar
+============================================================
+Escolha uma opção: Encerrando o Citizen Assist AI. Até logo!

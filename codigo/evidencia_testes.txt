@@ -1,0 +1,28 @@
+test_01_inserir_mantem_ordem_de_cadastro (testes.TestCasosNormais.test_01_inserir_mantem_ordem_de_cadastro) ... ok
+test_02_buscar_por_id (testes.TestCasosNormais.test_02_buscar_por_id) ... ok
+test_03_buscar_por_titulo_ignora_acento_e_maiusculas (testes.TestCasosNormais.test_03_buscar_por_titulo_ignora_acento_e_maiusculas) ... ok
+test_04_buscar_por_categoria (testes.TestCasosNormais.test_04_buscar_por_categoria) ... ok
+test_05_atualizar (testes.TestCasosNormais.test_05_atualizar) ... ok
+test_06_remover_meio_cabeca_cauda (testes.TestCasosNormais.test_06_remover_meio_cabeca_cauda) ... ok
+test_07_ordenar_por_id (testes.TestCasosNormais.test_07_ordenar_por_id) ... ok
+test_08_ordenar_por_titulo (testes.TestCasosNormais.test_08_ordenar_por_titulo) ... ok
+test_09_ordenar_por_categoria (testes.TestCasosNormais.test_09_ordenar_por_categoria) ... ok
+test_10_merge_sort_contra_referencia_aleatoria (testes.TestCasosNormais.test_10_merge_sort_contra_referencia_aleatoria) ... ok
+test_11_analise_por_categoria (testes.TestCasosNormais.test_11_analise_por_categoria) ... ok
+test_16_id_duplicado (testes.TestEntradasInvalidas.test_16_id_duplicado) ... ok
+test_17_id_invalido (testes.TestEntradasInvalidas.test_17_id_invalido) ... ok
+test_18_titulo_vazio_e_categoria_invalida (testes.TestEntradasInvalidas.test_18_titulo_vazio_e_categoria_invalida) ... ok
+test_19_atualizar_com_valor_invalido_nao_altera (testes.TestEntradasInvalidas.test_19_atualizar_com_valor_invalido_nao_altera) ... ok
+test_20_criterio_de_ordenacao_invalido (testes.TestEntradasInvalidas.test_20_criterio_de_ordenacao_invalido) ... ok
+test_23_menu_recusa_entradas_estranhas (testes.TestEntradasInvalidas.test_23_menu_recusa_entradas_estranhas) ... ok
+test_21_operacoes_com_lista_vazia (testes.TestListaVazia.test_21_operacoes_com_lista_vazia) ... ok
+test_22_remover_unico_elemento_esvazia_lista (testes.TestListaVazia.test_22_remover_unico_elemento_esvazia_lista) ... ok
+test_12_buscar_id_inexistente (testes.TestRegistrosInexistentes.test_12_buscar_id_inexistente) ... ok
+test_13_remover_id_inexistente_nao_altera_lista (testes.TestRegistrosInexistentes.test_13_remover_id_inexistente_nao_altera_lista) ... ok
+test_14_atualizar_id_inexistente (testes.TestRegistrosInexistentes.test_14_atualizar_id_inexistente) ... ok
+test_15_pesquisa_sem_resultado (testes.TestRegistrosInexistentes.test_15_pesquisa_sem_resultado) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.025s
+
+OK

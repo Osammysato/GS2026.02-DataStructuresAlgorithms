@@ -1,0 +1,49 @@
+2
+6
+8
+x
+9
+1
+abc
+0
+7
+1
+20
+
+Kit natalidade
+9
+5
+Gestantes de baixa renda
+Cartão da gestante e CPF
+Centro de atendimento - Centro
+2
+20
+2
+404
+5
+1
+auxilio
+5
+1
+vacina
+5
+2
+2
+3
+20
+
+
+
+Unidade móvel
+
+4
+404
+6
+1
+6
+3
+8
+4
+20
+7
+0
