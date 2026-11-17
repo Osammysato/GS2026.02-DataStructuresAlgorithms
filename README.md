@@ -11,23 +11,6 @@ A documentação completa (recorte, modelo, lista encadeada, menu, Big-O e teste
 - Gabriel Pedro de Souza - RM: 571995
 - Sammy de Moura Sato - RM: 569182
 
-## Requisitos
-Python 3.8 ou mais novo. Não usa nenhuma biblioteca externa.
-
-## Como rodar
-Dentro da pasta do código:
-```bash
-python main.py                    # menu (a opção 9 carrega os dados de exemplo)
-python -m unittest -v testes      # 23 testes automatizados
-python medir_complexidade.py      # conta as comparações pra conferir o Big-O
-```
-
-Pra repetir a mesma execução que está em `evidencia_execucao.txt`:
-```bash
-python main.py < roteiro.txt                      # Linux, macOS ou cmd do Windows
-Get-Content roteiro.txt | python main.py          # PowerShell
-```
-
 ## Arquivos
 | Arquivo | O que tem |
 |---|---|
